@@ -12,7 +12,7 @@
     "homepage": "https://github.com/jagalan/laravel-amazona-dvertising-api",
     "keywords": ["Laravel", "Amazon", "Advertising", "API"],
     "require": {
-        "illuminate/support": "~5",
+        "illuminate/support": "^6|^7|^8|^9",
         "luchianenco/oauth2-amazon": "^1.1",
         "amzn/amazon-advertising-api-php-sdk": "master"
     },
